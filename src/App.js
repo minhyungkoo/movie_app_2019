@@ -17,6 +17,7 @@ function App() {
           rel="noopener noreferrer"
         >
           Learn React with minhyung
+          test 2 
         </a>
       </header>
     </div>
