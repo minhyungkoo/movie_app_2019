@@ -19,6 +19,7 @@ const foodIlike = [
       <div>
         <h1>HELLO</h1>
         {foodIlike.map(dish => <FOOD name={dish.name} picture={dish.image}/>)}
+        <FOOD name='test food' /> 
       </div>
     ); 
   }
